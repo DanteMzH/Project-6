@@ -1,0 +1,12 @@
+
+.container{
+    background-color: aquamarine;
+    height: 20hv;
+}
+
+.d-flex{
+    background-color: rebeccapurple;
+    flex-direction: row;
+    height: 80hv;
+    
+}
